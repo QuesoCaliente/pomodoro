@@ -1,0 +1,12 @@
+
+
+.bs-progress-inset {
+    box-shadow: inset 4px 4px 6px -1px rgba(0,0,0,0.2), inset -4px -4px 6px -1px rgba(0, 0, 0, 0.7), -0.5px -0.5px 0px rgb(0, 0, 0), -0.5px -0.5px 0px rgba(0,0,0,0.15), 0px 12px 10px -10px rgba(0,0,0,0.05);
+}
+
+.progress-circle {
+    fill: none;
+    stroke-width: 10px;
+    stroke-dasharray: 875;
+
+}
